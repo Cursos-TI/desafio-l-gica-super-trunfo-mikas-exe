@@ -87,7 +87,7 @@ int main() {
     super_poder2 = populacao2 + area2 + pib2 + pontos_turisticos2 + pib_per_capita2 +densidade_populacional2;
     
 printf("\n");
-
+printf("\n");
 
 printf("****cadastro de carta**** \n");
 
